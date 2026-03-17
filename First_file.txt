@@ -1,0 +1,2 @@
+
+My first file, while learning git through VS Code. 
