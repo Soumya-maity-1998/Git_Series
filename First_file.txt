@@ -1,3 +1,6 @@
 
 My first file, while learning git through VS Code. 
 This is second line. 
+
+This is a change to this text file.
+I love branching and merging
